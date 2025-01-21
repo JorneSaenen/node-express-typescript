@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "target": "ESNext",
     "module": "Preserve",
     "strict": true,
     "moduleDetection": "force",
