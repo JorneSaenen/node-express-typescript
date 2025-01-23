@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
+    "target": "ES2017",
     "module": "Preserve",
     "strict": true,
     "moduleDetection": "force",
